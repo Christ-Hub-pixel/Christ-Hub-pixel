@@ -35,11 +35,13 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=111111" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
 ### 🚀 Projets
 
-#### Atelier — prototype en cours
+#### Atelier — prototype local en cours
 
 Un prototype de service pour aider les artisans peintres à créer des devis, suivre leurs clients et organiser les relances. Le projet comprend une interface web, une base d’API Django REST, un démarrage d’application Flutter et une configuration PostgreSQL avec Docker Compose.
 
@@ -47,6 +49,7 @@ Un prototype de service pour aider les artisans peintres à créer des devis, su
 
 - [skill-IA](https://github.com/Christ-Hub-pixel/skill-IA) — collection de compétences pour assistants et agents de code IA.
 - [AnalyseComparativeMarche](https://github.com/Christ-Hub-pixel/AnalyseComparativeMarche) — outil Python en ligne de commande pour normaliser et comparer des prix à partir de fichiers CSV, JSON et Excel.
+- [amazon_scraper](https://github.com/Christ-Hub-pixel/amazon_scraper) — projet Python avec Selenium, stockage SQLite/CSV et analyse de données produits.
 - [YODO](https://github.com/Christ-Hub-pixel/YODO) — site multipage de boutique, développé en HTML, CSS et JavaScript avec Three.js et GSAP.
 - [codelingo6](https://github.com/Christ-Hub-pixel/codelingo6) — projet d’application Flutter.
 - [ChristAntigravity](https://github.com/Christ-Hub-pixel/ChristAntigravity) — guide de déploiement du projet CodeLingo.
