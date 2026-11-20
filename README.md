@@ -1,6 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:6d28d9&height=210&section=header&text=Ezoua%20Emian%20Christ%20Esli&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Génie%20logiciel%20%7C%20Développement%20web%20et%20mobile&descAlignY=58&descSize=16" alt="Bannière de profil" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:6d28d9&height=210&section=header&text=Ezoua%20Emian%20Christ%20Esli&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Génie%20logiciel%20%7C%20Développement%20web%20et%20mobile&descAlignY=58&descSize=16" alt="Bannière de profil" width="100%" />
 </div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1100&color=A78BFA&center=true&vCenter=true&width=700&lines=%C3%89tudiant+en+g%C3%A9nie+logiciel;D%C3%A9veloppeur+web+et+mobile;IA+%26+analyse+de+donn%C3%A9es" alt="Texte de présentation animé" />
+</p>
 
 <div align="center">
 
