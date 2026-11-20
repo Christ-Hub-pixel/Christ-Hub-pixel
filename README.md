@@ -70,3 +70,10 @@ Un prototype de service pour aider les artisans peintres à créer des devis, su
 <div align="center">
   <sub>Merci d’être passé sur mon profil ✨</sub>
 </div>
+
+
+<p align="center">
+  <a href="https://github.com/Christ-Hub-pixel/commits/main"><img src="https://img.shields.io/badge/📈_Mes_commits-Explorer-6d28d9?style=for-the-badge" alt="Explorer mes commits" /></a>
+  <a href="https://github.com/Christ-Hub-pixel?tab=repositories"><img src="https://img.shields.io/badge/📁_Mes_dépôts-Explorer-2563eb?style=for-the-badge" alt="Explorer mes dépôts" /></a>
+  <a href="https://github.com/Christ-Hub-pixel?tab=stars"><img src="https://img.shields.io/badge/⭐_Mes_favoris-Explorer-9333ea?style=for-the-badge" alt="Explorer mes favoris" /></a>
+</p>
