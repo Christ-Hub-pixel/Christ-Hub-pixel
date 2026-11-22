@@ -44,12 +44,12 @@
 ### Activité GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Christ-Hub-pixel&amp;bg_color=0d1117&amp;color=c4a7ff&amp;line=8b5cf6&amp;point=ffffff&amp;area=true&amp;hide_border=true&amp;custom_title=Activite%20GitHub" alt="Graphique des contributions GitHub au fil du temps" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Christ-Hub-pixel&amp;bg_color=0d1117&amp;color=f4d77a&amp;line=d4af37&amp;point=e11d2e&amp;area=true&amp;hide_border=true&amp;custom_title=Activite%20GitHub" alt="Graphique des contributions GitHub au fil du temps" width="100%" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Christ-Hub-pixel&show_icons=true&theme=midnight-purple&hide_border=true&locale=fr" alt="Statistiques GitHub" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christ-Hub-pixel&layout=compact&theme=midnight-purple&hide_border=true&locale=fr" alt="Langages présents dans mes dépôts" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Christ-Hub-pixel&amp;show_icons=true&amp;theme=dark&amp;title_color=D4AF37&amp;icon_color=E11D2E&amp;text_color=F5F1E6&amp;bg_color=0D1117&amp;ring_color=D4AF37&amp;border_color=30363D&amp;hide_border=true&amp;locale=fr" alt="Statistiques GitHub" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christ-Hub-pixel&amp;layout=compact&amp;theme=dark&amp;title_color=D4AF37&amp;text_color=F5F1E6&amp;bg_color=0D1117&amp;border_color=30363D&amp;hide_border=true&amp;locale=fr" alt="Langages présents dans mes dépôts" />
 </p>
 
 ### Contact
