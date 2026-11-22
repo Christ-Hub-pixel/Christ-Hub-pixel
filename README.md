@@ -43,7 +43,7 @@
 
 ### Activité GitHub
 
-<p align="center">
+<p align="center">`n  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Christ-Hub-pixel&amp;bg_color=0d1117&amp;color=c4a7ff&amp;line=8b5cf6&amp;point=ffffff&amp;area=true&amp;hide_border=true&amp;custom_title=Activite%20GitHub" alt="Graphique des contributions GitHub au fil du temps" width="100%" />`n</p>`n`n<p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Christ-Hub-pixel&show_icons=true&theme=midnight-purple&hide_border=true&locale=fr" alt="Statistiques GitHub" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christ-Hub-pixel&layout=compact&theme=midnight-purple&hide_border=true&locale=fr" alt="Langages présents dans mes dépôts" />
 </p>
