@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:6d28d9&height=180&section=header&text=Ezoua%20Emian%20Christ%20Esli&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=G%C3%A9nie%20logiciel%20%7C%20Web%20%26%20mobile&descAlignY=60&descSize=16" alt="Ezoua Emian Christ Esli — génie logiciel, web et mobile" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Ezoua Emian Christ Esli — génie logiciel, web et mobile" width="100%" />
 </div>
 
 <p align="center">
