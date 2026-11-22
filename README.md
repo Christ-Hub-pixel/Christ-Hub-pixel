@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" alt="Ezoua Emian Christ Esli — génie logiciel, web et mobile" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Ezoua Emian Christ Esli - génie logiciel, web et mobile" width="100%" />
 </div>
 
 <p align="center">
@@ -29,17 +29,17 @@
 
 ### Projets en vedette
 
-- **[YODO](https://github.com/Christ-Hub-pixel/YODO)** — boutique web multipage de démonstration, réalisée avec HTML, CSS, JavaScript, Three.js et GSAP. [Voir la démo](https://yodo-clothing-brand.vercel.app).
-- **[Analyse Comparative de Marché](https://github.com/Christ-Hub-pixel/AnalyseComparativeMarche)** — outil Python en ligne de commande pour comparer des prix depuis des fichiers CSV, JSON et Excel, et simuler des paniers.
-- **[CodeLingo](https://github.com/Christ-Hub-pixel/codelingo6)** — projet d’application Flutter en développement.
-- **[Amazon Scraper](https://github.com/Christ-Hub-pixel/amazon_scraper)** — projet Python avec Selenium, export CSV et stockage SQLite pour une étude de marché.
+- **[YODO](https://github.com/Christ-Hub-pixel/YODO)** - boutique web multipage de démonstration, réalisée avec HTML, CSS, JavaScript, Three.js et GSAP. [Voir la démo](https://yodo-clothing-brand.vercel.app).
+- **[Analyse Comparative de Marché](https://github.com/Christ-Hub-pixel/AnalyseComparativeMarche)** - outil Python en ligne de commande pour comparer des prix depuis des fichiers CSV, JSON et Excel, et simuler des paniers.
+- **[CodeLingo](https://github.com/Christ-Hub-pixel/codelingo6)** - projet d’application Flutter en développement.
+- **[Amazon Scraper](https://github.com/Christ-Hub-pixel/amazon_scraper)** - projet Python avec Selenium, export CSV et stockage SQLite pour une étude de marché.
 
 [Parcourir tous mes dépôts →](https://github.com/Christ-Hub-pixel?tab=repositories)
 
 ### Distinctions
 
-- 🥈 2ᵉ place — Hackathon IIT 2026
-- 🥉 3ᵉ place — Vibeathon 2026
+- 🥈 2ᵉ place - Hackathon IIT 2026
+- 🥉 3ᵉ place - Vibeathon 2026
 
 ### Activité GitHub
 
