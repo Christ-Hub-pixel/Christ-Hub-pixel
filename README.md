@@ -15,19 +15,19 @@
 
 ---
 
-### 🟡 À propos
+<h3><img src="./assets/section-about.svg" alt="À propos" width="100%" /></h3>
 
 - 🎓 Étudiant en Licence 2 de génie logiciel à l’IIT.
 - 🔎 Intéressé par les applications utiles, le développement mobile et les données.
 - 🤝 J’apprends en réalisant des projets, seul ou en équipe.
 - 🎯 Je recherche un stage en développement logiciel.
 
-### 🔴 Technologies explorées
+<h3><img src="./assets/section-technologies.svg" alt="Technologies explorées" width="100%" /></h3>
 
 **Langages :** Python · JavaScript · Dart · C++ · HTML · CSS  
 **Frameworks et outils :** Flutter · Django REST · PostgreSQL · Docker · Three.js · GSAP · Selenium · SQLite
 
-### 🔶 Projets en vedette
+<h3><img src="./assets/section-projects.svg" alt="Projets en vedette" width="100%" /></h3>
 
 - 🟨 **[YODO](https://github.com/Christ-Hub-pixel/YODO)** - boutique web multipage de démonstration, réalisée avec HTML, CSS, JavaScript, Three.js et GSAP. [Voir la démo](https://yodo-clothing-brand.vercel.app).
 - 🔴 **[Analyse Comparative de Marché](https://github.com/Christ-Hub-pixel/AnalyseComparativeMarche)** - outil Python en ligne de commande pour comparer des prix depuis des fichiers CSV, JSON et Excel, et simuler des paniers.
@@ -36,12 +36,12 @@
 
 [Parcourir tous mes dépôts →](https://github.com/Christ-Hub-pixel?tab=repositories)
 
-### 🏆 Distinctions
+<h3><img src="./assets/section-awards.svg" alt="Distinctions" width="100%" /></h3>
 
 - 🥈 2ᵉ place - Hackathon IIT 2026
 - 🥉 3ᵉ place - Vibeathon 2026
 
-### 📊 Activité GitHub
+<h3><img src="./assets/section-activity.svg" alt="Activité GitHub" width="100%" /></h3>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Christ-Hub-pixel&amp;bg_color=0d1117&amp;color=f4d77a&amp;line=d4af37&amp;point=e11d2e&amp;area=true&amp;hide_border=true&amp;custom_title=Activite%20GitHub" alt="Graphique des contributions GitHub au fil du temps" width="100%" />
@@ -52,6 +52,6 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christ-Hub-pixel&amp;layout=compact&amp;theme=dark&amp;title_color=D4AF37&amp;text_color=F5F1E6&amp;bg_color=0D1117&amp;border_color=30363D&amp;hide_border=true&amp;locale=fr" alt="Langages présents dans mes dépôts" />
 </p>
 
-### 🔴 Contact
+<h3><img src="./assets/section-contact.svg" alt="Contact" width="100%" /></h3>
 
 Pour parler d’un stage ou d’un projet, écris-moi via [mon portfolio](https://christ-hub-pixel.github.io/portfolio/) ou [LinkedIn](https://linkedin.com/in/emian-ezoua).
