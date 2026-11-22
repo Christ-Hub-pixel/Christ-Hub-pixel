@@ -1,79 +1,68 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:6d28d9&height=210&section=header&text=Ezoua%20Emian%20Christ%20Esli&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Génie%20logiciel%20%7C%20Développement%20web%20et%20mobile&descAlignY=58&descSize=16" alt="Bannière de profil" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:6d28d9&height=180&section=header&text=Ezoua%20Emian%20Christ%20Esli&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=G%C3%A9nie%20logiciel%20%7C%20Web%20%26%20mobile&descAlignY=60&descSize=16" alt="Ezoua Emian Christ Esli — génie logiciel, web et mobile" width="100%" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1100&color=A78BFA&center=true&vCenter=true&width=700&lines=%C3%89tudiant+en+g%C3%A9nie+logiciel;D%C3%A9veloppeur+web+et+mobile;IA+%26+analyse+de+donn%C3%A9es" alt="Texte de présentation animé" />
+  Étudiant en génie logiciel à l’Institut Ivoirien de Technologie (IIT), Grand-Bassam, Côte d’Ivoire.<br />
+  Je conçois des projets web et mobiles et j’explore l’IA et l’analyse de données.
 </p>
 
-<div align="center">
-
-### Salut, moi c’est Christ 👋
-
-Étudiant en génie logiciel et développeur, je construis des solutions numériques utiles à travers des projets web, mobiles, data et orientés intelligence artificielle.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Christ--Hub--pixel-181717?logo=github)](https://github.com/Christ-Hub-pixel)
-
-</div>
+<p align="center">
+  <a href="https://christ-hub-pixel.github.io/portfolio/"><img src="https://img.shields.io/badge/Mon_portfolio-6d28d9?style=for-the-badge" alt="Visiter mon portfolio" /></a>
+  <a href="https://linkedin.com/in/emian-ezoua"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mon profil LinkedIn" /></a>
+  <a href="https://github.com/Christ-Hub-pixel?tab=repositories"><img src="https://img.shields.io/badge/Mes_dépôts-181717?style=for-the-badge&logo=github&logoColor=white" alt="Mes dépôts GitHub" /></a>
+</p>
 
 ---
 
-### 🔭 Ce qui m’intéresse
+### À propos
 
-- Concevoir des applications qui répondent à des besoins concrets.
-- Explorer l’intelligence artificielle, l’analyse de données et les outils pour développeurs.
-- Apprendre en réalisant des projets de bout en bout : interface, API, données et déploiement.
+- 🎓 Étudiant en Licence 2 de génie logiciel à l’IIT.
+- 🔎 Intéressé par la création d’applications utiles, le développement mobile et les données.
+- 🤝 J’aime apprendre en réalisant des projets, seul ou en équipe.
+- 🎯 Je recherche un stage en développement logiciel.
 
-### 🛠️ Technologies explorées
+### Technologies explorées
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222222" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=111111" alt="GSAP" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-</p>
+**Langages :**
 
-### 🚀 Projets
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-#### Atelier — prototype local en cours
+**Frameworks et outils :**
 
-Un prototype de service pour aider les artisans peintres à créer des devis, suivre leurs clients et organiser les relances. Le projet comprend une interface web, une base d’API Django REST, un démarrage d’application Flutter et une configuration PostgreSQL avec Docker Compose.
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=111111)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-#### Autres projets GitHub
+### Projets à découvrir
 
-- [skill-IA](https://github.com/Christ-Hub-pixel/skill-IA) — collection de compétences pour assistants et agents de code IA.
-- [AnalyseComparativeMarche](https://github.com/Christ-Hub-pixel/AnalyseComparativeMarche) — outil Python en ligne de commande pour normaliser et comparer des prix à partir de fichiers CSV, JSON et Excel.
-- [amazon_scraper](https://github.com/Christ-Hub-pixel/amazon_scraper) — projet Python avec Selenium, stockage SQLite/CSV et analyse de données produits.
-- [YODO](https://github.com/Christ-Hub-pixel/YODO) — site multipage de boutique, développé en HTML, CSS et JavaScript avec Three.js et GSAP.
-- [codelingo6](https://github.com/Christ-Hub-pixel/codelingo6) — projet d’application Flutter.
-- [ChristAntigravity](https://github.com/Christ-Hub-pixel/ChristAntigravity) — guide de déploiement du projet CodeLingo.
-- [global-customer-synergy](https://github.com/Christ-Hub-pixel/global-customer-synergy)
-- [OrientCI](https://github.com/Christ-Hub-pixel/OrientCI)
+- **[YODO](https://github.com/Christ-Hub-pixel/YODO)** — site de boutique multipage réalisé avec HTML, CSS, JavaScript, Three.js et GSAP.
+- **[AnalyseComparativeMarche](https://github.com/Christ-Hub-pixel/AnalyseComparativeMarche)** — outil Python pour comparer des prix depuis des fichiers CSV, JSON et Excel.
+- **[CodeLingo](https://github.com/Christ-Hub-pixel/codelingo6)** — projet d’application mobile Flutter.
+- **[Amazon Scraper](https://github.com/Christ-Hub-pixel/amazon_scraper)** — projet Python de collecte et d’analyse de données produits.
 
-### 📊 Activité GitHub
+[Voir tous mes dépôts →](https://github.com/Christ-Hub-pixel?tab=repositories)
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Christ-Hub-pixel&show_icons=true&theme=midnight-purple&hide_border=true&locale=fr" alt="Statistiques GitHub de Christ" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christ-Hub-pixel&layout=compact&theme=midnight-purple&hide_border=true&locale=fr" alt="Langages les plus utilisés" />
-</div>
+### Distinctions
 
-<div align="center">
-  <sub>Merci d’être passé sur mon profil ✨</sub>
-</div>
+- 🥈 2ᵉ place — Hackathon IIT 2026
+- 🥉 3ᵉ place — Vibeathon 2026
 
+### Activité GitHub
 
 <p align="center">
-  <a href="https://github.com/Christ-Hub-pixel/commits/main"><img src="https://img.shields.io/badge/📈_Mes_commits-Explorer-6d28d9?style=for-the-badge" alt="Explorer mes commits" /></a>
-  <a href="https://github.com/Christ-Hub-pixel?tab=repositories"><img src="https://img.shields.io/badge/📁_Mes_dépôts-Explorer-2563eb?style=for-the-badge" alt="Explorer mes dépôts" /></a>
-  <a href="https://github.com/Christ-Hub-pixel?tab=stars"><img src="https://img.shields.io/badge/⭐_Mes_favoris-Explorer-9333ea?style=for-the-badge" alt="Explorer mes favoris" /></a>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Christ-Hub-pixel&show_icons=true&theme=midnight-purple&hide_border=true&locale=fr" alt="Statistiques GitHub" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christ-Hub-pixel&layout=compact&theme=midnight-purple&hide_border=true&locale=fr" alt="Langages présents dans mes dépôts" />
 </p>
+
+<p align="center"><sub>Merci d’être passé sur mon profil 👋</sub></p>
